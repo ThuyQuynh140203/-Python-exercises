@@ -1,0 +1,5 @@
+SV001|Nguyen Minh|Hoa|D21CQAT|Hanoi
+SV002|Tran Thi|Lan|D21CQPM|HCMC
+SV003|Le Minh|Tu|D21CQAT|Danang
+SV004|Nguyen Thi|An|D21CQAT|Hanoi
+SV005|Pham Minh|Cuong|D21CQPM|Hanoi
