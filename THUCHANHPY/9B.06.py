@@ -14,4 +14,4 @@ class ToanHoc:
         tong = self.tinhtong()
 
         return tong / len(self.nso)
-    def tinhmax(self):
+    # def tinhmax(self):
